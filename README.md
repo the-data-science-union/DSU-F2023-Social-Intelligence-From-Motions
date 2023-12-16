@@ -1,5 +1,8 @@
 # Social Intelligence: Emotion prediction in videos
 
+Project members: Ved Phadke, Aaron Tae, Madelaine Leitman, Jonah Jung 
+Project lead: Yiling Yun
+
 In this project, we created an interface on Streamlit to predict the emotions of every frame in a video using a series of deep-learning models designed and trained on a dataset called VEATIC. In addition, we evaluated the model from VEATIC by examining the prediction performance in a variety of videos (single-character vs. multi-character, animals & animations vs. humans, landscape vs portrait).
 
 ## Original VEATIC
